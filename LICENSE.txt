@@ -1,0 +1,14 @@
+NEPSE Expert AI Starter Kit
+Copyright (c) 2026 D.Work Labs
+
+Permission is granted to use this kit for personal learning purposes only.
+
+Redistribution, resale, modification for resale, or commercial reuse
+without written permission from D.Work Labs is prohibited.
+
+This product does NOT provide financial advice.
+
+Always verify market information before making investment decisions.
+
+Official website:
+https://www.dworklabs.com
